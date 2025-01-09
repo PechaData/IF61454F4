@@ -1,0 +1,20 @@
+{
+  "@type": "AnnotationStore",
+  "@id": "IF61454F4",
+  "resources": [
+    {
+      "@type": "TextResource",
+      "@id": "344B",
+      "@include": "../../base/344B.txt"
+    }
+  ],
+  "annotationsets": [
+    {
+      "@type": "AnnotationDataSet",
+      "@id": "Translation",
+      "keys": [],
+      "data": []
+    }
+  ],
+  "annotations": []
+}
